@@ -1,0 +1,38 @@
+:root {
+  --bg-green-dark: #0b2306;
+<<<<<<< HEAD
+  --text-blue-light: #2774c5;
+=======
+  --bg-green-primary: #28a745;
+>>>>>>> dafe9e2ac9136ea9035558e69b2cd060ad6cad5f
+}
+
+
+.bg__sidebar {
+  background-color: var(--bg-green-dark) !important;
+}
+
+.pointer--none {
+  pointer-events: none !important;
+}
+
+.btn__primary {
+  background: var(--btn-primary);
+  border-radius: 4px;
+  color: white !important;
+}
+
+.errorlist {
+  color:  red !important;
+}
+.nav-link.text-dark.bg-white.rounded.btn__hover {
+  transition: 0.3s;
+}
+.nav-link.text-dark.bg-white.rounded.btn__hover:hover{
+  color: white !important;
+  background: #176429 !important;
+}
+
+.fz__icon__bars{
+  font-size: 2rem;
+}

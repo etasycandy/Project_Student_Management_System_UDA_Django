@@ -1,0 +1,10 @@
+/.vs/
+/.idea/
+/runtime.txt
+/requirements.txt
+/Procfile
+/LICENSE
+/heroku_commands
+/db.sqlite3
+/database.pdf
+/database.png

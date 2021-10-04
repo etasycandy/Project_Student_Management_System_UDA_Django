@@ -1,0 +1,50 @@
+:root {
+  --bg-green-dark: #066e06;
+  --text-blue-light: #2774c5;
+}
+
+.text-anchor {
+  transition: .3s;
+  color: var(--text-blue-light);
+}
+.text-anchor:hover {
+  color: var(--bg-green-dark);
+}
+
+
+.pointer--none {
+  pointer-events: none !important;
+}
+
+.w-100{
+  width: 100%;
+}
+
+.form {
+  width: 360px;
+  margin: 0 auto;
+}
+
+.fz__title {
+  font-size: 30px !important;
+}
+.border-green {
+  border-color: #8ba28b !important;
+}
+
+.border-green:focus,
+.border-green:hover {
+  border-color: green#8ba28b !important;
+}
+
+.text-green {
+  color: #066e06 !important;
+}
+
+.icon-color {
+  color: #92c379 !important;
+}
+
+.align--left {
+  text-align: left !important;
+}
